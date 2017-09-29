@@ -8,3 +8,5 @@ first change to local folder
 
 change in gitHub directory
 
+changes made in newBranch
+
