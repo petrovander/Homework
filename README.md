@@ -8,5 +8,9 @@ first change to local folder
 
 change in gitHub directory
 
+
 i am making changes in the master directory after done in the new branch
+
+changes made in newBranch
+
 
